@@ -1,14 +1,10 @@
-#img {
-  display: block;
-  margin: auto;
-  height: 128px;
-  width: 128px;
-  padding: 2rem;
+*{
+  margin: 0;
+  padding: 0;
 }
-
-#canvas {
-  display: block;
-  margin: 2rem auto;
-  width: 540px;
-  height: 540px;
+.container
+{
+  width: 100%;
+  height: 100vh;  
+  position: relative;
 }
